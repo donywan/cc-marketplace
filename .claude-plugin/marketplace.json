@@ -1,0 +1,13 @@
+{
+    "name": "cc-marketplace",
+    "owner": {
+        "name": "donywan"
+    },
+    "plugins": [
+        {
+            "name": "beautiful-code-plugin",
+            "source": "./beautiful-code-plugin",
+            "description": "My first test plugin"
+        }
+    ]
+}
