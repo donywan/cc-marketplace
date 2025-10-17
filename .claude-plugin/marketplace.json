@@ -5,8 +5,8 @@
     },
     "plugins": [
         {
-            "name": "beautiful-code-plugin",
-            "source": "./beautiful-code-plugin",
+            "name": "biu-code",
+            "source": "./biu-code",
             "description": "My first test plugin"
         }
     ]
